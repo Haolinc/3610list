@@ -70,7 +70,7 @@ function drawText(){
   ctx.font = "25px Arial";
   ctx.fillText('"heart"', 230, 50);
   ctx.fillText('"hat"', 230, 80);
-  ctx.fillText('"bear"', 230, 110);
+  ctx.fillText('"bar"', 230, 110);
   ctx.fillText('"rip"', 230, 140);
   ctx.fillText('"mouse"', 230, 170);
 }
